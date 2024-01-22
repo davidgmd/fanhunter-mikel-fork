@@ -22,7 +22,7 @@
   "secondaryTokenAttribute": null,
   "minimumCoreVersion": "0.5.6",
   "compatibleCoreVersion": "0.7.2",
-  "url": "https://github.com/Horror-cosmico/fh-foundry-vtt",
-  "manifest": "https://raw.githubusercontent.com/Horror-cosmico/fh-foundry-vtt/master/system.json",
-  "download": "https://github.com/Horror-cosmico/fh-foundry-vtt/archive/0.02.zip"
+  "url": "https://github.com/mikel-ocejo/fh-foundry-vtt",
+  "manifest": "https://raw.githubusercontent.com/mikel-ocejo/fh-foundry-vtt/master/system.json",
+  "download": "https://github.com/mikel-ocejo/fh-foundry-vtt/archive/0.02.zip"
 }
